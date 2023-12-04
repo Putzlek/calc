@@ -10,7 +10,7 @@ C: Limpa a expressão em construção.
 
 /: Divide.
 
-p: Eleva um número ou expressão.
+p: Eleva um número.
 
 +/-: Incremento e decremento.
 
