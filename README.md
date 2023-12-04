@@ -1,6 +1,7 @@
 ## Calculadora
 Esse é um projeto didático com a intenção de simular uma calculadoraa padrão com a função de resolver potências, para um trabalho na matéria de orientação a objetos.
 
+
 ## Funcionalidades:
 C: Limpa a expressão em construção.
 
