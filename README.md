@@ -9,6 +9,8 @@ C: Limpa a expressão em construção.
 
 /: Divide.
 
+x: multiplica.
+
 p: Eleva um número.
 
 +/-: Incremento e decremento.
